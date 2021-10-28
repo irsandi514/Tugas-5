@@ -1,0 +1,11 @@
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasUnitTest.csprojAssemblyReference.cache
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasUnitTest.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasUnitTest.csproj.CopyComplete
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
